@@ -1,5 +1,5 @@
 
-# Build Full-Stack Serverless Application on AWS 
+# Deployer une application Full-Stack Serverless sur AWS 
 
 Pour mettre en place ce projet, nous utiliserons la stack suivante :
 
